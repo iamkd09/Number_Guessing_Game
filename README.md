@@ -1,4 +1,5 @@
-# Number Guessing Game
+# Number Guessing Game 
+## Using python
 
 Welcome to the **Number Guessing Game**! This is a simple Python game where the player attempts to guess a randomly generated number between 1 and 100.
 
