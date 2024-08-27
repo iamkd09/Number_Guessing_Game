@@ -1,5 +1,6 @@
-# Here we will be creating a project which is a number guessing game using python
-import random
+# Here we will be creating a project which is a number guessing game using python 
+
+import random  # using random
 
 def get_valid_guess():
     while True:
